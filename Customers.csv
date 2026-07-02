@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,City,State,Gender
+1,Aarav Joshi,Pune,Maharashtra,Male
+2,Diya Patel,Bengaluru,Karnataka,Male
+3,Meera Sharma,Lucknow,Uttar Pradesh,Male
+4,Rohan Singh,Pune,Maharashtra,Male
+5,Rohan Verma,Jaipur,Rajasthan,Female
+6,Ishita Kulkarni,Bengaluru,Karnataka,Female
+7,Aisha Nair,Mumbai,Maharashtra,Female
+8,Diya Singh,Chennai,Tamil Nadu,Female
+9,Aditya Nair,Pune,Maharashtra,Male
+10,Arjun Kulkarni,Hyderabad,Telangana,Female
+11,Ishita Verma,Mumbai,Maharashtra,Male
+12,Aditya Verma,Ahmedabad,Gujarat,Female
+13,Arjun Kulkarni,Lucknow,Uttar Pradesh,Male
+14,Vivaan Singh,Pune,Maharashtra,Female
+15,Sneha Patel,Pune,Maharashtra,Female
+16,Ishita Gupta,Chennai,Tamil Nadu,Male
+17,Arjun Singh,Hyderabad,Telangana,Female
+18,Ayaan Khot,Pune,Maharashtra,Male
+19,Ishita Nair,Delhi,Delhi,Female
+20,Sneha Gupta,Jaipur,Rajasthan,Male
+21,Vivaan Gupta,Bengaluru,Karnataka,Female
+22,Aditya Singh,Chennai,Tamil Nadu,Female
+23,Alisha Nair,Bengaluru,Karnataka,Female
+24,Rahul Khot,Delhi,Delhi,Male
+25,Nisha Joshi,Jaipur,Rajasthan,Female
+26,Karan Gupta,Lucknow,Uttar Pradesh,Male
+27,Kabir Reddy,Delhi,Delhi,Male
+28,Ananya Khot,Mumbai,Maharashtra,Male
+29,Ayaan Patel,Ahmedabad,Gujarat,Female
+30,Ayaan Reddy,Ahmedabad,Gujarat,Female
+31,Aarav Patel,Jaipur,Rajasthan,Female
+32,Ananya Joshi,Hyderabad,Telangana,Female
+33,Ishita Sharma,Delhi,Delhi,Female
+34,Aisha Verma,Jaipur,Rajasthan,Male
+35,Kabir Kulkarni,Chennai,Tamil Nadu,Male
+36,Arjun Khot,Delhi,Delhi,Male
+37,Neha Reddy,Lucknow,Uttar Pradesh,Male
+38,Arjun Joshi,Pune,Maharashtra,Male
+39,Sneha Kulkarni,Mumbai,Maharashtra,Male
+40,Alisha Patel,Pune,Maharashtra,Male
+41,Alisha Verma,Delhi,Delhi,Male
+42,Kabir Kulkarni,Chennai,Tamil Nadu,Female
+43,Nisha Singh,Bengaluru,Karnataka,Female
+44,Arjun Reddy,Ahmedabad,Gujarat,Female
+45,Sneha Singh,Pune,Maharashtra,Male
+46,Aarav Kulkarni,Hyderabad,Telangana,Male
+47,Sneha Sharma,Lucknow,Uttar Pradesh,Male
+48,Sneha Patel,Mumbai,Maharashtra,Male
+49,Aditya Verma,Hyderabad,Telangana,Male
+50,Alisha Singh,Chennai,Tamil Nadu,Male
+51,Riya Reddy,Lucknow,Uttar Pradesh,Male
+52,Meera Singh,Kolkata,West Bengal,Male
+53,Meera Gupta,Pune,Maharashtra,Female
+54,Ishita Sharma,Ahmedabad,Gujarat,Male
+55,Karan Gupta,Mumbai,Maharashtra,Male
+56,Rohan Singh,Bengaluru,Karnataka,Female
+57,Meera Khot,Delhi,Delhi,Female
+58,Sneha Patel,Kolkata,West Bengal,Female
+59,Ananya Sharma,Jaipur,Rajasthan,Male
+60,Sneha Khot,Pune,Maharashtra,Female
+61,Alisha Singh,Kolkata,West Bengal,Female
+62,Aisha Nair,Mumbai,Maharashtra,Male
+63,Rahul Reddy,Ahmedabad,Gujarat,Female
+64,Nisha Reddy,Ahmedabad,Gujarat,Male
+65,Priya Singh,Bengaluru,Karnataka,Male
+66,Nisha Sharma,Lucknow,Uttar Pradesh,Female
+67,Vivaan Kulkarni,Mumbai,Maharashtra,Female
+68,Kabir Khot,Jaipur,Rajasthan,Male
+69,Aditya Khot,Jaipur,Rajasthan,Male
+70,Aditya Singh,Lucknow,Uttar Pradesh,Female
+71,Riya Singh,Pune,Maharashtra,Male
+72,Aditya Nair,Lucknow,Uttar Pradesh,Female
+73,Rohan Gupta,Chennai,Tamil Nadu,Male
+74,Karan Khot,Chennai,Tamil Nadu,Female
+75,Neha Patel,Kolkata,West Bengal,Male
+76,Ayaan Kulkarni,Kolkata,West Bengal,Male
+77,Nisha Singh,Pune,Maharashtra,Female
+78,Arjun Patel,Delhi,Delhi,Male
+79,Priya Khot,Hyderabad,Telangana,Female
+80,Priya Kulkarni,Jaipur,Rajasthan,Male
+81,Priya Patel,Jaipur,Rajasthan,Male
+82,Ananya Patel,Chennai,Tamil Nadu,Male
+83,Priya Kulkarni,Chennai,Tamil Nadu,Male
+84,Rohan Joshi,Hyderabad,Telangana,Female
+85,Vivaan Patel,Chennai,Tamil Nadu,Female
+86,Vivaan Sharma,Chennai,Tamil Nadu,Female
+87,Rahul Khot,Delhi,Delhi,Female
+88,Meera Verma,Jaipur,Rajasthan,Male
+89,Aditya Khot,Pune,Maharashtra,Male
+90,Riya Verma,Hyderabad,Telangana,Male
+91,Diya Sharma,Ahmedabad,Gujarat,Female
+92,Vivaan Gupta,Hyderabad,Telangana,Male
+93,Ananya Gupta,Bengaluru,Karnataka,Female
+94,Diya Singh,Lucknow,Uttar Pradesh,Male
+95,Meera Sharma,Delhi,Delhi,Male
+96,Meera Singh,Hyderabad,Telangana,Female
+97,Ananya Nair,Delhi,Delhi,Male
+98,Sneha Singh,Kolkata,West Bengal,Female
+99,Priya Singh,Hyderabad,Telangana,Male
+100,Rohan Nair,Mumbai,Maharashtra,Female

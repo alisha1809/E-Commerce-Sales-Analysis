@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Price
+1,Laptop,Electronics,14038.36
+2,Smartphone,Electronics,3610.62
+3,Headphones,Electronics,38700.33
+4,Smart Watch,Electronics,17654.63
+5,Monitor,Electronics,25543.87
+6,Keyboard,Electronics,34023.98
+7,Mouse,Electronics,42206.51
+8,Printer,Electronics,16657.82
+9,Tablet,Electronics,1525.89
+10,Speaker,Electronics,43870.36
+11,T-Shirt,Fashion,13171.58
+12,Jeans,Fashion,29092.4
+13,Shoes,Fashion,49180.0
+14,Jacket,Fashion,2057.12
+15,Watch,Fashion,29889.08
+16,Handbag,Fashion,17382.5
+17,Sunglasses,Fashion,39353.44
+18,Dress,Fashion,21904.24
+19,Cap,Fashion,49214.16
+20,Wallet,Fashion,5914.94
+21,Chair,Home,44990.31
+22,Table,Home,9625.43
+23,Sofa,Home,2362.67
+24,Lamp,Home,21887.47
+25,Curtains,Home,26068.03
+26,Cookware,Home,40354.57
+27,Mixer,Home,34389.83
+28,Vacuum,Home,47022.12
+29,Storage Box,Home,36891.33
+30,Bedsheet,Home,9972.2
+31,Novel,Books,21650.18
+32,Notebook,Books,47451.39
+33,Dictionary,Books,46050.43
+34,Biography,Books,31214.3
+35,Comics,Books,33219.87
+36,Planner,Books,6362.57
+37,Journal,Books,45017.33
+38,Cookbook,Books,25430.06
+39,Atlas,Books,33394.61
+40,Workbook,Books,16410.22
+41,Face Wash,Beauty,34905.84
+42,Perfume,Beauty,27787.46
+43,Lipstick,Beauty,9713.23
+44,Moisturizer,Beauty,33296.73
+45,Shampoo,Beauty,19050.39
+46,Conditioner,Beauty,37444.51
+47,Body Lotion,Beauty,8825.26
+48,Serum,Beauty,28519.9
+49,Face Cream,Beauty,20392.85
+50,Sunscreen,Beauty,41711.2
